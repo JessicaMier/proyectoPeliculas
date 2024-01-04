@@ -9,7 +9,12 @@ body {
 	background: #e0e0e0;
 	color: #1d1d1d;
 }
+.titulo{
+	text-align: center;
+	font-size: xx-large;
+	margin: 10px;
 
+}
 .contenedor {
 	width: 90%;
 	max-width: 1000px;
